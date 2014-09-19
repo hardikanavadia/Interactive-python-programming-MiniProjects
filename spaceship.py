@@ -1,6 +1,6 @@
 # program template for Spaceship
 #spaceship program | coursera | interactive python programming
-
+#submitted By: hardik anavadia
 
 
 import simplegui
