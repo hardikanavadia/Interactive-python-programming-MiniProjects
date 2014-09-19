@@ -1,3 +1,4 @@
+#submitted By: hardik anavadia
 #mini project-2
 #Rock-paper-scissors-lizard-spock program
 
