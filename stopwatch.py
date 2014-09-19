@@ -1,3 +1,5 @@
+#submitted By: hardik anavadia
+
 #cousera | interactive python programming | mini project | stopwatch Game
 
 import simplegui
