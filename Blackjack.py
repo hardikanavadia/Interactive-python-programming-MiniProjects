@@ -1,4 +1,5 @@
 # Mini-project #6 - Blackjack
+#submitted by: Hardik anavadia
 # coursera | interactive python programming
 
 import simplegui
